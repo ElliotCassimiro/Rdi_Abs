@@ -13,23 +13,23 @@ A Máquina de Bebidas Automatizada é um sistema projetado para oferecer aos usu
 ## Documentação
 
 Requisitos Funcionais
-a- Seleção de Bebida
+Seleção de Bebida
 O sistema deve apresentar ao usuário opções de bebidas, incluindo Coca-Cola, Guaraná, Suco de Uva e Suco de Laranja.
 O usuário deve escolher uma opção de bebida.
-b- Seleção de Tamanho
+Seleção de Tamanho
 Com base na escolha da bebida, o sistema deve oferecer opções de tamanho.
 As opções de tamanho dependem se a escolha foi refrigerante (300ml, 500ml, 700ml) ou suco (300ml, 500ml).
 O usuário deve selecionar o tamanho desejado.
-c- Adição de Gelo
+Adição de Gelo
 O sistema pergunta ao usuário se deseja adicionar gelo à sua bebida.
 As opções são "Com gelo" ou "Sem gelo".
 A quantidade de gelo varia conforme a escolha da bebida (refrigerante: 6 cubos; Suco: 12 cubos).
-d- Definição do Tipo de Tampa
+Definição do Tipo de Tampa
 
     O usuário deve escolher entre "Take Out" (Para viagem) e "Eat In" (Consumo no local) para o tipo de pedido.
     A escolha influencia o tipo de tampa utilizado (Take out: Tampa sem furo; Eat in: Tampa com furo).
 
-e- Impressão de Detalhes da Bebida
+Impressão de Detalhes da Bebida
 Após as escolhas do usuário, o sistema deve imprimir os detalhes da bebida, incluindo sabor, tamanho, tipo de copo, quantidade de gelo e tipo de tampa.
 
 ## Requisitos
